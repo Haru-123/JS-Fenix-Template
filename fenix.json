@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/acharluk/FenixDefaultTemplates/master/fenix-schema.json",
     "author": "Haru-123",
     "repoName": "Repository name",
-    "repoUrl": "https://example.com/master/my-template-url",
+    "repoUrl": "https://raw.githubusercontent.com/Haru-123/JS-Fenix-Template/master/",
     "version": 1.0,
     "templates": [
         {
@@ -16,7 +16,7 @@
             "files": {
                 "download": [
                     {
-                        "from": "remote-file.txt",
+                        "from": "init-js.txt",
                         "to": "index.js"
                     }
                 ],
