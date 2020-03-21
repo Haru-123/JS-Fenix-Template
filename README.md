@@ -1,2 +1,2 @@
 # MoreFenixTemplates
-A recopilation of simple templates for Fenix extension in VS Code
+A compilation of simple templates for Fenix extension in VS Code
