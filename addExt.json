@@ -31,7 +31,7 @@
             "id": "WebPageFenixTemplate",
             "displayName": "WebPage(HTML+CSS+JS)",
             "language": "HTML",
-            "categories": ["WebDesing"],
+            "categories": ["WebDesign"],
             "description": "A complete web page template for Fenix",
             "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FiihibxR_html-dialog-element-taking-full-advantage-of-javascript%2F&psig=AOvVaw0eX0vGRONGzhwh3xO8IdeL&ust=1584915433746000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiRzp7MrOgCFQAAAAAdAAAAABAJ",
             "directories": [
