@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/acharluk/FenixDefaultTemplates/master/fenix-schema.json",
+    "author": "Haru-123",
+    "repoName": "Repository name",
+    "repoUrl": "https://example.com/master/my-template-url",
+    "version": 1.0,
+    "templates": [
+        {
+            "id": "JavaScript-fenix-template",
+            "displayName": "JavaScript",
+            "language": "JavaScript",
+            "categories": ["Programming"],
+            "directories": [
+                "js"
+            ],
+            "files": {
+                "download": [
+                    {
+                        "from": "remote-file.txt",
+                        "to": "index.js"
+                    }
+                ],
+                "open": [
+                    "index.js"
+                ]
+            }
+        }
+    ]
+}
