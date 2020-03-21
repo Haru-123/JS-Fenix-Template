@@ -1,7 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/acharluk/FenixDefaultTemplates/master/fenix-schema.json",
     "author": "Haru-123",
-    "repoName": "Repository name",
+    "repoName": "JS-Fenix-Template",
     "repoUrl": "https://raw.githubusercontent.com/Haru-123/JS-Fenix-Template/master/",
     "version": 1.0,
     "templates": [
