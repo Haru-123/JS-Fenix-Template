@@ -1,12 +1,12 @@
 {
     "$schema": "https://raw.githubusercontent.com/acharluk/FenixDefaultTemplates/master/fenix-schema.json",
     "author": "Haru-123",
-    "repoName": "JS-Fenix-Template",
+    "repoName": "MoreFenixTemplates",
     "repoUrl": "https://raw.githubusercontent.com/Haru-123/JS-Fenix-Template/master/",
     "version": 1.0,
     "templates": [
         {
-            "id": "JavaScript-fenix-template",
+            "id": "JavaScriptFenixTemplate",
             "displayName": "JavaScript",
             "language": "JavaScript",
             "categories": ["Programming"],
