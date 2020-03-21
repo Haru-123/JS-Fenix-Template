@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/acharluk/FenixDefaultTemplates/master/fenix-schema.json",
     "author": "adrestrod",
     "repoName": "MoreFenixTemplates",
-    "repoUrl": "https://raw.githubusercontent.com/adrestrod/JS-Fenix-Template/master/",
+    "repoUrl": "https://raw.githubusercontent.com/adrestrod/MoreFenixTemplates/master/",
     "version": 1.0,
     "templates": [
         {
@@ -24,6 +24,36 @@
                 ],
                 "open": [
                     "index.js"
+                ]
+            }
+        },
+        {
+            "id": "WebPageFenixTemplate",
+            "displayName": "WebPage(HTML+CSS+JS)",
+            "language": "HTML",
+            "categories": ["WebDesing"],
+            "description": "A complete web page template for Fenix",
+            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teepublic.com%2Fes-mx%2Fpegatina%2F2712780-html-css-js&psig=AOvVaw0eX0vGRONGzhwh3xO8IdeL&ust=1584915433746000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiRzp7MrOgCFQAAAAAdAAAAABAD",
+            "directories": [
+                "HTMl",
+                "CSS",
+                "JS"
+            ],
+            "files": {
+                "download": [
+                    {
+                        "from": "init-js.txt",
+                        "to": "JS/index.js",
+                        "from": "init-html.txt",
+                        "to": "index.html",
+                        "from": "init-css.txt",
+                        "to": "CSS/index.css"
+                    }
+                ],
+                "open": [
+                    "index.js",
+                    "index.html",
+                    "index.css"
                 ]
             }
         }
