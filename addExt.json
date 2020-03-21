@@ -50,9 +50,6 @@
                         "to": "index.html"
                     },
                     {
-
-                    
-                        
                         "from": "init-css.txt",
                         "to": "CSS/index.css"
                     }
