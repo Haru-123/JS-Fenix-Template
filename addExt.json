@@ -55,9 +55,9 @@
                     }
                 ],
                 "open": [
-                    "index.js",
+                    "JS/index.js",
                     "index.html",
-                    "index.css"
+                    "CSS/index.css"
                 ]
             }
         }
