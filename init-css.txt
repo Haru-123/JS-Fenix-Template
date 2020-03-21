@@ -1,0 +1,16 @@
+/*
+body {
+    background: ;
+    background-image: ;
+    background-position: ;
+    background-repeat: ;
+    background-size: ;
+    text-align: ;
+}
+h1{
+    font-size: ;
+    font-family: ;
+    font-weight: ;
+    font
+}
+*/
