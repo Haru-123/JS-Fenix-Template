@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/acharluk/FenixDefaultTemplates/master/fenix-schema.json",
+    "$schema": "https://raw.githubusercontent.com/FenixTemplates/FenixTemplates/master/fenix-schema.json",
     "author": "adrestrod",
     "repoName": "MoreFenixTemplates",
     "repoUrl": "https://raw.githubusercontent.com/adrestrod/MoreFenixTemplates/master/",
@@ -9,7 +9,7 @@
             "id": "JavaScriptFenixTemplate",
             "displayName": "JavaScript",
             "language": "JavaScript",
-            "categories": ["Programming"],
+            "category": ["Programming"],
             "description": "A Simple JS template",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
             "directories": [
